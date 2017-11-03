@@ -46,7 +46,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ### Unordered
 
 * Item 1
-- Item 2
+* Item 2
 * Item 3
   * Item 3b
   * Item 3c
